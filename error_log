@@ -1,0 +1,863 @@
+[04-Feb-2025 07:25:53 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/dpijbzub/conc.wandeto.africa/common/product_details.php on line 10
+[04-Feb-2025 07:25:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/dpijbzub/conc.wandeto.africa/common/product_details.php on line 10
+[04-Feb-2025 07:26:08 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/dpijbzub/conc.wandeto.africa/common/product_details.php on line 10
+[04-Feb-2025 07:26:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/dpijbzub/conc.wandeto.africa/common/product_details.php on line 10
+[04-Feb-2025 07:26:10 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/dpijbzub/conc.wandeto.africa/common/product_details.php on line 10
+[04-Feb-2025 07:26:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/dpijbzub/conc.wandeto.africa/common/product_details.php on line 10
+[04-Feb-2025 07:30:34 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/dpijbzub/conc.wandeto.africa/dashboard.php on line 43
+[04-Feb-2025 07:30:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/dpijbzub/conc.wandeto.africa/dashboard.php on line 43
+[04-Feb-2025 07:30:45 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/dpijbzub/conc.wandeto.africa/dashboard.php on line 43
+[04-Feb-2025 07:30:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/dpijbzub/conc.wandeto.africa/dashboard.php on line 43
+[04-Feb-2025 07:30:47 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/dpijbzub/conc.wandeto.africa/dashboard.php on line 43
+[04-Feb-2025 07:30:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/dpijbzub/conc.wandeto.africa/dashboard.php on line 43
+[06-Feb-2025 14:30:48 UTC] PHP Warning:  include_once(database_connection.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/order-list.php on line 3
+[06-Feb-2025 14:30:48 UTC] PHP Warning:  include_once(): Failed opening 'database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/order-list.php on line 3
+[06-Feb-2025 14:30:48 UTC] PHP Warning:  include_once(helpers.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/order-list.php on line 6
+[06-Feb-2025 14:30:48 UTC] PHP Warning:  include_once(): Failed opening 'helpers.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/order-list.php on line 6
+[06-Feb-2025 14:30:48 UTC] PHP Warning:  include_once(controllers/orders/order_controller.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/order-list.php on line 9
+[06-Feb-2025 14:30:48 UTC] PHP Warning:  include_once(): Failed opening 'controllers/orders/order_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/order-list.php on line 9
+[06-Feb-2025 14:39:59 UTC] PHP Warning:  include_once(database_connection.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/order-list.php on line 3
+[06-Feb-2025 14:39:59 UTC] PHP Warning:  include_once(): Failed opening 'database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/order-list.php on line 3
+[06-Feb-2025 14:39:59 UTC] PHP Warning:  include_once(helpers.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/order-list.php on line 6
+[06-Feb-2025 14:39:59 UTC] PHP Warning:  include_once(): Failed opening 'helpers.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/order-list.php on line 6
+[06-Feb-2025 14:39:59 UTC] PHP Warning:  include_once(controllers/orders/order_controller.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/order-list.php on line 9
+[06-Feb-2025 14:39:59 UTC] PHP Warning:  include_once(): Failed opening 'controllers/orders/order_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/order-list.php on line 9
+[09-Feb-2025 15:30:25 Africa/Nairobi] PHP Warning:  Undefined variable $row in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 234
+[09-Feb-2025 15:30:25 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 234
+[09-Feb-2025 15:30:25 Africa/Nairobi] PHP Warning:  Undefined variable $row in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 237
+[09-Feb-2025 15:30:25 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 237
+[09-Feb-2025 15:30:50 Africa/Nairobi] PHP Warning:  Undefined variable $row in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 234
+[09-Feb-2025 15:30:50 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 234
+[09-Feb-2025 15:30:50 Africa/Nairobi] PHP Warning:  Undefined variable $row in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 237
+[09-Feb-2025 15:30:50 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 237
+[09-Feb-2025 16:24:52 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:24:52 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:24:52 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:24:52 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:24:52 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:24:52 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:24:55 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:24:55 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:24:55 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:24:55 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:24:55 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:24:55 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:25:13 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:25:13 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:25:13 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:25:13 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:25:13 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:25:13 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:29:31 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:29:31 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:29:31 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:29:31 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:29:31 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:29:31 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:34:51 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:34:51 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:34:51 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:34:51 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:34:51 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:34:51 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:34:57 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:34:57 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:34:57 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:34:57 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:34:57 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:34:57 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:35:00 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:35:00 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:35:00 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:35:00 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:35:00 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:35:00 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:35:01 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:35:01 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:35:01 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:35:01 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:35:01 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:35:01 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:35:02 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:35:02 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:35:02 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:35:02 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:35:02 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:35:02 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:35:05 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:35:05 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:35:05 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:35:05 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:35:05 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:35:05 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:40:29 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:40:29 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:40:29 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:40:29 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:40:29 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:40:29 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:40:43 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:40:43 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:40:43 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:40:43 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:40:43 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:40:43 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:40:46 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:40:46 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:40:46 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:40:46 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:40:46 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:40:46 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:40:51 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:40:51 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:40:51 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:40:51 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:40:51 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:40:51 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:40:52 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:40:53 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:40:53 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:40:53 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:40:53 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 23
+[09-Feb-2025 16:40:53 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:40:53 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 24
+[09-Feb-2025 16:43:03 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:43:03 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:43:03 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:43:03 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:43:03 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:43:03 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:45:27 Africa/Nairobi] PHP Warning:  include(../../config/connection.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/controllers/products/get_received_goods.php on line 2
+[09-Feb-2025 16:45:27 Africa/Nairobi] PHP Warning:  include(): Failed opening '../../config/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/controllers/products/get_received_goods.php on line 2
+[09-Feb-2025 16:45:27 Africa/Nairobi] PHP Warning:  include(../../config/connection.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/controllers/products/update_received_goods.php on line 2
+[09-Feb-2025 16:45:27 Africa/Nairobi] PHP Warning:  include(): Failed opening '../../config/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/controllers/products/update_received_goods.php on line 2
+[09-Feb-2025 16:45:27 Africa/Nairobi] PHP Warning:  include(../../config/connection.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/controllers/products/add_received_goods.php on line 2
+[09-Feb-2025 16:45:27 Africa/Nairobi] PHP Warning:  include(): Failed opening '../../config/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/controllers/products/add_received_goods.php on line 2
+[09-Feb-2025 16:45:27 Africa/Nairobi] PHP Warning:  Undefined variable $dbconn in /home/dpijbzub/conc.wandeto.africa/controllers/products/add_received_goods.php on line 76
+[09-Feb-2025 16:45:27 Africa/Nairobi] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home/dpijbzub/conc.wandeto.africa/controllers/products/add_received_goods.php:76
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/controllers/products/add_received_goods.php(76): mysqli_close(NULL)
+#1 /home/dpijbzub/conc.wandeto.africa/received_goods.php(15): include('/home/dpijbzub/...')
+#2 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/controllers/products/add_received_goods.php on line 76
+[09-Feb-2025 16:45:34 Africa/Nairobi] PHP Warning:  include(../../config/connection.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/controllers/products/get_received_goods.php on line 2
+[09-Feb-2025 16:45:34 Africa/Nairobi] PHP Warning:  include(): Failed opening '../../config/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/controllers/products/get_received_goods.php on line 2
+[09-Feb-2025 16:45:34 Africa/Nairobi] PHP Warning:  include(../../config/connection.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/controllers/products/update_received_goods.php on line 2
+[09-Feb-2025 16:45:34 Africa/Nairobi] PHP Warning:  include(): Failed opening '../../config/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/controllers/products/update_received_goods.php on line 2
+[09-Feb-2025 16:45:34 Africa/Nairobi] PHP Warning:  include(../../config/connection.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/controllers/products/add_received_goods.php on line 2
+[09-Feb-2025 16:45:34 Africa/Nairobi] PHP Warning:  include(): Failed opening '../../config/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/controllers/products/add_received_goods.php on line 2
+[09-Feb-2025 16:45:34 Africa/Nairobi] PHP Warning:  Undefined variable $dbconn in /home/dpijbzub/conc.wandeto.africa/controllers/products/add_received_goods.php on line 76
+[09-Feb-2025 16:45:34 Africa/Nairobi] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home/dpijbzub/conc.wandeto.africa/controllers/products/add_received_goods.php:76
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/controllers/products/add_received_goods.php(76): mysqli_close(NULL)
+#1 /home/dpijbzub/conc.wandeto.africa/received_goods.php(15): include('/home/dpijbzub/...')
+#2 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/controllers/products/add_received_goods.php on line 76
+[09-Feb-2025 16:45:45 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:45:45 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:45:45 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:45:45 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:45:45 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:45:45 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:54:40 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:54:40 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:54:40 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:54:40 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:54:40 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:54:40 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:54:53 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:54:53 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:54:53 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:54:53 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:54:53 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:54:53 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:55:09 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:55:09 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:55:09 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:55:09 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:55:09 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:55:09 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:55:11 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:55:11 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:55:11 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:55:11 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:55:11 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:55:11 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:55:20 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:55:20 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:55:20 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:55:20 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:55:20 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:55:20 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:55:26 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:55:26 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:55:26 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:55:26 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:55:26 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:55:26 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:55:57 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:55:57 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:55:57 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:55:57 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:55:57 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:55:57 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:56:00 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:56:00 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:56:00 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:56:00 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:56:00 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:56:00 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:56:05 Africa/Nairobi] PHP Warning:  include(common/get_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:56:05 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/get_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 20
+[09-Feb-2025 16:56:05 Africa/Nairobi] PHP Warning:  include(common/update_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:56:05 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/update_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 21
+[09-Feb-2025 16:56:05 Africa/Nairobi] PHP Warning:  include(common/add_received_goods.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[09-Feb-2025 16:56:05 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/add_received_goods.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/received_goods.php on line 22
+[10-Feb-2025 15:09:05 Africa/Nairobi] PHP Warning:  include(../../config/connection.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 2
+[10-Feb-2025 15:09:05 Africa/Nairobi] PHP Warning:  include(): Failed opening '../../config/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 2
+[10-Feb-2025 15:09:05 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dpijbzub/conc.wandeto.africa/ticket-list.php:1) in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 4
+[10-Feb-2025 15:09:05 Africa/Nairobi] PHP Warning:  Undefined variable $dbconn in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 7
+[10-Feb-2025 15:09:05 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php:7
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/ticket-list.php(5): include()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 7
+[10-Feb-2025 15:09:13 Africa/Nairobi] PHP Warning:  include(../../config/connection.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 2
+[10-Feb-2025 15:09:13 Africa/Nairobi] PHP Warning:  include(): Failed opening '../../config/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 2
+[10-Feb-2025 15:09:13 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dpijbzub/conc.wandeto.africa/ticket-list.php:1) in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 4
+[10-Feb-2025 15:09:13 Africa/Nairobi] PHP Warning:  Undefined variable $dbconn in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 7
+[10-Feb-2025 15:09:13 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php:7
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/ticket-list.php(5): include()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 7
+[10-Feb-2025 15:09:15 Africa/Nairobi] PHP Warning:  include(../../config/connection.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 2
+[10-Feb-2025 15:09:15 Africa/Nairobi] PHP Warning:  include(): Failed opening '../../config/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 2
+[10-Feb-2025 15:09:15 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dpijbzub/conc.wandeto.africa/ticket-list.php:1) in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 4
+[10-Feb-2025 15:09:15 Africa/Nairobi] PHP Warning:  Undefined variable $dbconn in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 7
+[10-Feb-2025 15:09:15 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php:7
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/ticket-list.php(5): include()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 7
+[10-Feb-2025 15:09:18 Africa/Nairobi] PHP Warning:  include(../../config/connection.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 2
+[10-Feb-2025 15:09:18 Africa/Nairobi] PHP Warning:  include(): Failed opening '../../config/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 2
+[10-Feb-2025 15:09:18 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dpijbzub/conc.wandeto.africa/ticket-list.php:1) in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 4
+[10-Feb-2025 15:09:18 Africa/Nairobi] PHP Warning:  Undefined variable $dbconn in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 7
+[10-Feb-2025 15:09:18 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php:7
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/ticket-list.php(5): include()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/controllers/users/get_tickets.php on line 7
+[16-Feb-2025 16:41:56 Africa/Nairobi] PHP Warning:  include(common/footer_scripts.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/support-ticket.php on line 160
+[16-Feb-2025 16:41:56 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/footer_scripts.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/support-ticket.php on line 160
+[16-Feb-2025 16:43:27 Africa/Nairobi] PHP Warning:  include(common/footer_scripts.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/support-ticket.php on line 160
+[16-Feb-2025 16:43:27 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/footer_scripts.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/support-ticket.php on line 160
+[16-Feb-2025 16:43:30 Africa/Nairobi] PHP Warning:  include(common/footer_scripts.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/support-ticket.php on line 160
+[16-Feb-2025 16:43:30 Africa/Nairobi] PHP Warning:  include(): Failed opening 'common/footer_scripts.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/support-ticket.php on line 160
+[17-Feb-2025 19:33:28 Africa/Nairobi] PHP Warning:  require_once(../controllers/TicketController.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 118
+[17-Feb-2025 19:33:28 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required '../controllers/TicketController.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/tickets.php:118
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 118
+[17-Feb-2025 19:48:29 Africa/Nairobi] PHP Warning:  require_once(../controllers/TicketController.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 3
+[17-Feb-2025 19:48:29 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required '../controllers/TicketController.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/tickets.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 3
+[17-Feb-2025 19:48:39 Africa/Nairobi] PHP Warning:  require_once(../controllers/TicketController.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 3
+[17-Feb-2025 19:48:39 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required '../controllers/TicketController.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/tickets.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 3
+[17-Feb-2025 19:48:40 Africa/Nairobi] PHP Warning:  require_once(../controllers/TicketController.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 3
+[17-Feb-2025 19:48:40 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required '../controllers/TicketController.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/tickets.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 3
+[17-Feb-2025 19:49:40 Africa/Nairobi] PHP Warning:  Undefined variable $tickets in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 19:49:40 Africa/Nairobi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 19:50:07 Africa/Nairobi] PHP Warning:  Undefined variable $tickets in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 19:50:07 Africa/Nairobi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 19:50:36 Africa/Nairobi] PHP Warning:  Undefined variable $tickets in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 19:50:36 Africa/Nairobi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 21:08:48 Africa/Nairobi] PHP Warning:  Undefined variable $tickets in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 21:08:48 Africa/Nairobi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 21:15:00 Africa/Nairobi] PHP Warning:  Undefined variable $tickets in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 21:15:00 Africa/Nairobi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 21:15:19 Africa/Nairobi] PHP Warning:  Undefined variable $tickets in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 21:15:19 Africa/Nairobi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 21:20:34 Africa/Nairobi] PHP Warning:  require_once(../controllers/TicketController.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 3
+[17-Feb-2025 21:20:34 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required '../controllers/TicketController.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/tickets.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 3
+[17-Feb-2025 21:20:42 Africa/Nairobi] PHP Warning:  require_once(../controllers/TicketController.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 3
+[17-Feb-2025 21:20:42 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required '../controllers/TicketController.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/tickets.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 3
+[17-Feb-2025 21:21:30 Africa/Nairobi] PHP Warning:  Undefined variable $tickets in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 127
+[17-Feb-2025 21:21:30 Africa/Nairobi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 127
+[17-Feb-2025 21:22:48 Africa/Nairobi] PHP Warning:  Undefined variable $tickets in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 21:22:49 Africa/Nairobi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 21:23:59 Africa/Nairobi] PHP Warning:  Undefined variable $tickets in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 21:23:59 Africa/Nairobi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 21:24:28 Africa/Nairobi] PHP Warning:  Undefined variable $tickets in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 21:24:28 Africa/Nairobi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 22:18:35 Africa/Nairobi] PHP Warning:  Undefined variable $tickets in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 22:18:35 Africa/Nairobi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 22:18:37 Africa/Nairobi] PHP Warning:  Undefined variable $tickets in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 22:18:37 Africa/Nairobi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 22:18:55 Africa/Nairobi] PHP Warning:  Undefined variable $tickets in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 22:18:55 Africa/Nairobi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 23:03:44 Africa/Nairobi] PHP Warning:  Undefined variable $tickets in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[17-Feb-2025 23:03:44 Africa/Nairobi] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dpijbzub/conc.wandeto.africa/tickets.php on line 104
+[18-Feb-2025 17:52:18 Africa/Nairobi] PHP Warning:  Undefined array key "types" in /home/dpijbzub/conc.wandeto.africa/seller_dashboard.php on line 7
+[18-Feb-2025 17:52:18 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dpijbzub/conc.wandeto.africa/common/header_links.php:1) in /home/dpijbzub/conc.wandeto.africa/seller_dashboard.php on line 8
+[18-Feb-2025 17:52:23 Africa/Nairobi] PHP Warning:  Undefined array key "types" in /home/dpijbzub/conc.wandeto.africa/seller_dashboard.php on line 7
+[18-Feb-2025 17:52:23 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dpijbzub/conc.wandeto.africa/common/header_links.php:1) in /home/dpijbzub/conc.wandeto.africa/seller_dashboard.php on line 8
+[18-Feb-2025 17:52:25 Africa/Nairobi] PHP Warning:  Undefined array key "types" in /home/dpijbzub/conc.wandeto.africa/seller_dashboard.php on line 7
+[18-Feb-2025 17:52:25 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dpijbzub/conc.wandeto.africa/common/header_links.php:1) in /home/dpijbzub/conc.wandeto.africa/seller_dashboard.php on line 8
+[18-Feb-2025 17:52:41 Africa/Nairobi] PHP Warning:  Undefined array key "types" in /home/dpijbzub/conc.wandeto.africa/seller_dashboard.php on line 7
+[18-Feb-2025 17:52:41 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dpijbzub/conc.wandeto.africa/common/header_links.php:1) in /home/dpijbzub/conc.wandeto.africa/seller_dashboard.php on line 8
+[18-Feb-2025 17:52:43 Africa/Nairobi] PHP Warning:  Undefined array key "types" in /home/dpijbzub/conc.wandeto.africa/seller_dashboard.php on line 7
+[18-Feb-2025 17:52:43 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dpijbzub/conc.wandeto.africa/common/header_links.php:1) in /home/dpijbzub/conc.wandeto.africa/seller_dashboard.php on line 8
+[18-Feb-2025 18:12:21 Africa/Nairobi] PHP Warning:  Undefined array key "types" in /home/dpijbzub/conc.wandeto.africa/seller_dashboard.php on line 7
+[18-Feb-2025 18:12:21 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dpijbzub/conc.wandeto.africa/common/header_links.php:1) in /home/dpijbzub/conc.wandeto.africa/seller_dashboard.php on line 8
+[19-Feb-2025 10:16:24 Africa/Nairobi] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[19-Feb-2025 10:16:24 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[19-Feb-2025 10:18:08 Africa/Nairobi] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 4
+[19-Feb-2025 10:18:08 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 4
+[19-Feb-2025 10:23:43 Africa/Nairobi] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 4
+[19-Feb-2025 10:23:43 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 4
+[19-Feb-2025 10:24:07 Africa/Nairobi] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 4
+[19-Feb-2025 10:24:07 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 4
+[19-Feb-2025 10:25:07 Africa/Nairobi] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 4
+[19-Feb-2025 10:25:07 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 4
+[19-Feb-2025 10:30:00 Africa/Nairobi] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dpijbzub/conc.wandeto.africa/create_order.php on line 6
+[19-Feb-2025 10:30:13 Africa/Nairobi] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dpijbzub/conc.wandeto.africa/create_order.php on line 6
+[19-Feb-2025 10:30:23 Africa/Nairobi] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dpijbzub/conc.wandeto.africa/create_order.php on line 6
+[19-Feb-2025 10:34:03 Africa/Nairobi] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dpijbzub/conc.wandeto.africa/create_order.php on line 6
+[19-Feb-2025 10:34:07 Africa/Nairobi] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dpijbzub/conc.wandeto.africa/create_order.php on line 6
+[19-Feb-2025 10:34:15 Africa/Nairobi] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dpijbzub/conc.wandeto.africa/create_order.php on line 6
+[19-Feb-2025 10:34:57 Africa/Nairobi] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dpijbzub/conc.wandeto.africa/create_order.php on line 6
+[19-Feb-2025 10:35:27 Africa/Nairobi] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dpijbzub/conc.wandeto.africa/create_order.php on line 6
+[19-Feb-2025 12:46:59 Africa/Nairobi] PHP Warning:  require_once(./tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 4
+[19-Feb-2025 12:46:59 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required './tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 4
+[19-Feb-2025 12:55:22 Africa/Nairobi] PHP Warning:  require_once(./tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 4
+[19-Feb-2025 12:55:22 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required './tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 4
+[19-Feb-2025 12:55:36 Africa/Nairobi] PHP Warning:  require_once(./tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 4
+[19-Feb-2025 12:55:36 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required './tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 4
+[19-Feb-2025 15:31:19 Africa/Nairobi] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/dpijbzub/conc.wandeto.africa/config/connection.php on line 3
+[21-Feb-2025 06:15:29 Africa/Nairobi] PHP Warning:  Undefined variable $dbconn in /home/dpijbzub/conc.wandeto.africa/order-tracking.php on line 68
+[21-Feb-2025 06:15:29 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dpijbzub/conc.wandeto.africa/order-tracking.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/order-tracking.php on line 68
+[21-Feb-2025 06:15:32 Africa/Nairobi] PHP Warning:  Undefined variable $dbconn in /home/dpijbzub/conc.wandeto.africa/order-tracking.php on line 68
+[21-Feb-2025 06:15:32 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dpijbzub/conc.wandeto.africa/order-tracking.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/order-tracking.php on line 68
+[21-Feb-2025 06:15:38 Africa/Nairobi] PHP Warning:  Undefined variable $dbconn in /home/dpijbzub/conc.wandeto.africa/order-tracking.php on line 68
+[21-Feb-2025 06:15:38 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dpijbzub/conc.wandeto.africa/order-tracking.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/order-tracking.php on line 68
+[21-Feb-2025 06:28:05 Africa/Nairobi] PHP Warning:  Undefined variable $dbconn in /home/dpijbzub/conc.wandeto.africa/order-tracking.php on line 68
+[21-Feb-2025 06:28:05 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dpijbzub/conc.wandeto.africa/order-tracking.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/order-tracking.php on line 68
+[21-Feb-2025 06:35:24 Africa/Nairobi] PHP Warning:  Undefined variable $dbconn in /home/dpijbzub/conc.wandeto.africa/order-tracking.php on line 68
+[21-Feb-2025 06:35:24 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dpijbzub/conc.wandeto.africa/order-tracking.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/order-tracking.php on line 68
+[21-Feb-2025 06:35:58 Africa/Nairobi] PHP Warning:  Undefined variable $dbconn in /home/dpijbzub/conc.wandeto.africa/order-tracking.php on line 68
+[21-Feb-2025 06:35:58 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dpijbzub/conc.wandeto.africa/order-tracking.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/order-tracking.php on line 68
+[21-Feb-2025 21:37:35 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:37:35 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:38:34 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:38:34 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:39:13 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:39:13 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:40:13 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:40:14 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:40:16 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:40:16 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:40:22 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:40:22 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:30 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:30 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:33 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:33 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:34 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:34 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:35 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:35 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:35 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:35 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:35 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:35 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:35 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:35 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:36 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:36 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:36 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:36 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:37 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:43:37 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:45:04 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:45:04 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:46:56 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:46:56 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:47:05 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:47:05 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:54:13 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:54:13 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:54:33 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:54:33 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:26 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:26 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:29 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:29 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:29 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:29 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:30 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:30 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:30 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:30 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:30 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:30 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:31 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:31 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:31 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:31 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:31 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:31 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:32 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:32 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:32 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 21:57:32 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:01:46 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:01:46 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:02:09 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:02:09 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:04:31 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:04:31 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:04:52 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:04:52 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:08:38 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:08:38 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:08:41 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:08:41 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:24:26 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:24:26 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:24:29 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:24:29 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:24:32 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:24:32 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:25:09 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:25:09 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:25:13 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:25:13 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:25:22 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:25:22 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:25:33 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:25:33 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:27:41 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[21-Feb-2025 22:27:41 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[22-Feb-2025 17:04:28 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[22-Feb-2025 17:04:28 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[23-Feb-2025 15:47:36 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[23-Feb-2025 15:47:36 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[24-Feb-2025 09:17:00 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[24-Feb-2025 09:17:01 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[24-Feb-2025 09:35:42 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[24-Feb-2025 09:35:42 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[24-Feb-2025 10:16:36 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[24-Feb-2025 10:16:36 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[24-Feb-2025 13:09:10 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[24-Feb-2025 13:09:10 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[24-Feb-2025 13:17:34 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[24-Feb-2025 13:17:34 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[24-Feb-2025 14:35:13 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[24-Feb-2025 14:35:13 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[24-Feb-2025 14:35:29 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[24-Feb-2025 14:35:29 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[24-Feb-2025 14:35:48 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[24-Feb-2025 14:35:48 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[26-Feb-2025 08:55:04 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[26-Feb-2025 08:55:04 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[27-Feb-2025 17:04:16 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[27-Feb-2025 17:04:16 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[27-Feb-2025 17:08:53 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[27-Feb-2025 17:08:53 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[27-Feb-2025 17:11:08 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[27-Feb-2025 17:11:08 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[27-Feb-2025 17:18:29 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[27-Feb-2025 17:18:29 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[27-Feb-2025 17:18:44 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[27-Feb-2025 17:18:44 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[27-Feb-2025 17:21:28 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[27-Feb-2025 17:21:28 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[27-Feb-2025 17:21:33 Africa/Nairobi] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[27-Feb-2025 17:21:33 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/dpijbzub/conc.wandeto.africa/generate_report.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/generate_report.php on line 2
+[27-Feb-2025 17:24:42 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[27-Feb-2025 17:24:48 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[27-Feb-2025 17:25:00 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[27-Feb-2025 17:25:21 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[27-Feb-2025 17:29:12 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[27-Feb-2025 17:30:16 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[28-Feb-2025 12:49:45 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[28-Feb-2025 13:08:42 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[28-Feb-2025 13:08:55 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[28-Feb-2025 13:12:01 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[28-Feb-2025 13:12:20 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[28-Feb-2025 13:12:57 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[28-Feb-2025 13:39:12 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[03-Mar-2025 16:36:59 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[03-Mar-2025 16:37:45 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[03-Mar-2025 16:38:16 Africa/Nairobi] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/dpijbzub/conc.wandeto.africa/config/connection.php on line 3
+[03-Mar-2025 16:44:06 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[03-Mar-2025 16:54:53 Africa/Nairobi] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/dpijbzub/conc.wandeto.africa/config/connection.php on line 3
+[03-Mar-2025 16:55:26 Africa/Nairobi] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/dpijbzub/conc.wandeto.africa/config/connection.php on line 3
+[03-Mar-2025 16:58:46 Africa/Nairobi] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/dpijbzub/conc.wandeto.africa/config/connection.php on line 3
+[03-Mar-2025 17:00:15 Africa/Nairobi] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/dpijbzub/conc.wandeto.africa/config/connection.php on line 3
+[04-Mar-2025 14:42:35 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[04-Mar-2025 14:42:36 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[18-Mar-2025 23:00:18 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[18-Mar-2025 23:00:20 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[28-Mar-2025 20:57:18 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[29-Mar-2025 17:34:46 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
+[29-Mar-2025 17:34:59 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Class "Com\Tecnick\Pdf\ClassObjects" not found in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php:50
+Stack trace:
+#0 /home/dpijbzub/conc.wandeto.africa/generate_report.php(2): require_once()
+#1 {main}
+  thrown in /home/dpijbzub/conc.wandeto.africa/vendor/tc-lib-pdf-main/src/Tcpdf.php on line 50
